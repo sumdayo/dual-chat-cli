@@ -1,0 +1,9 @@
+# 環境変数ファイル（APIキーが含まれるので絶対にコミットしない）
+.env
+
+# ビルドした実行ファイル
+dual-chat
+dual-chat.exe
+
+# Macの不要ファイル
+.DS_Store
