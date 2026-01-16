@@ -1,5 +1,11 @@
 # Dual Chat CLI
 
+<p align="center">
+  <img src="./images/demo.png" width="800" alt="Dual Chat CLI Demo">
+  <br>
+  <i>(プロフィール情報を読み込ませて自己紹介を生成している様子)</i>
+</p>
+
 OpenAIの **GPT-4o** と Anthropicの **Claude (3.5/4.5)** に同時にリクエストを投げ、回答を比較できるCLIツールです。
 ローカルのディレクトリを指定することで、その中の資料（テキストやコード）を読み込ませて回答させる機能も搭載しています。
 
