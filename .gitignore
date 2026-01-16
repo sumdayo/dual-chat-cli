@@ -1,6 +1,12 @@
 # 環境変数ファイル（APIキーが含まれるので絶対にコミットしない）
 .env
 
+# RAG用の個人データフォルダ（Gitには上げない）
+contexts/
+context/
+
+!context/test/
+
 # ビルドした実行ファイル
 dual-chat
 dual-chat.exe
